@@ -6,7 +6,7 @@ A basic to-do app built with Flutter. This app has add/delete/update functinalit
 
 This repository is part of a tutorial on my YouTube.
 
-- [Flutter ToDo App Tutorial for Beginners](https://youtu.be/K4P5DZ9TRns)
+- [Flutter ToDo App Tutorial for Beginners](Watch This Video)
 
 ## Screenshot
 
